@@ -40,6 +40,7 @@ do
  
  ksb@ksb-H410M-S2-V2:~/shell$ sh prime.sh 
 syntax is <prime.sh> <no1> <no2> 
+
 ksb@ksb-H410M-S2-V2:~/shell$ sh prime.sh 2 90
 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,
 
