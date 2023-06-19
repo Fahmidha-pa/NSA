@@ -35,7 +35,7 @@ do
  
 
 
- #output
+ ##output
  
  
  ksb@ksb-H410M-S2-V2:~/shell$ sh prime.sh 
