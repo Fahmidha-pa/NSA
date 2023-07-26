@@ -1,0 +1,12 @@
+#read three numbers and print largest
+echo "Enter three numbers"
+read a b c 
+if [ $a -gt $b ]
+echo "$a is largest"
+then     
+if [ $b -gt $c ]
+echo "$b is largest" 
+fi
+echo "$c is largest" 
+
+

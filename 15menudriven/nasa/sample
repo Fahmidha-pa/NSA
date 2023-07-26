@@ -1,0 +1,29 @@
+hello
+ok..........
+total 92
+-rw-rw-r-- 1 ksb ksb  191 Mar 27 15:11 }
+-rwx--x-wx 1 ksb ksb   12 Mar 20 15:45 1
+-rw-rw-r-- 1 ksb ksb   27 Mar 23 12:15 123
+-rw-rw-r-- 1 ksb ksb   15 Mar 20 15:46 2
+-rw-rw-r-- 1 ksb ksb    0 Mar 23 12:21 456
+-rw-rw-r-- 1 ksb ksb   27 Mar 20 14:49 999
+-rw-rw-r-- 1 ksb ksb   91 Mar 25 11:52 abc
+-rw-rw-r-- 1 ksb ksb   25 Mar 23 12:36 a.c
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 14:48 data
+-rw-rw-r-- 1 ksb ksb 2232 Mar 20 15:11 data1
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 15:02 data2
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 15:02 data3
+-rw-rw-r-- 1 ksb ksb  222 Mar 30 11:11 gt.sh
+-rw-rw-r-- 1 ksb ksb  283 Mar 30 12:45 inwords.sh
+-rw-rw-r-- 1 ksb ksb  366 Mar 30 12:21 isleap.sh
+-rw-rw-r-- 1 ksb ksb  182 Apr 11 15:21 mul.sh
+drwxrwxr-x 3 ksb ksb 4096 Mar 23 12:52 one
+-rw-rw-r-- 1 ksb ksb    0 Mar 20 15:50 res
+-rw-rw-r-- 1 ksb ksb    0 Mar 23 12:23 rev123
+drwxrwxr-x 2 ksb ksb 4096 Mar 23 12:49 s1
+drwxrwxr-x 3 ksb ksb 4096 Mar 23 12:50 s2
+drwxrwxr-x 2 ksb ksb 4096 Mar 23 12:47 s3
+-rw-rw-r-- 1 ksb ksb   19 Apr 17 14:29 sample
+-rw-rw-r-- 1 ksb ksb  118 Mar 25 12:53 sumdiff.sh
+-rw-rw-r-- 1 ksb ksb  573 Mar 23 12:43 wc
+-rw-rw-r-- 1 ksb ksb   57 Apr 13 12:08 whilelt.sh

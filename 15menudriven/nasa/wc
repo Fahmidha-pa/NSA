@@ -1,0 +1,14 @@
+total 36
+-rw-rw-r-- 1 ksb ksb   12 Mar 20 15:45 1
+-rw-rw-r-- 1 ksb ksb   27 Mar 23 12:15 123
+-rw-rw-r-- 1 ksb ksb   15 Mar 20 15:46 2
+-rw-rw-r-- 1 ksb ksb    0 Mar 23 12:21 456
+-rw-rw-r-- 1 ksb ksb   27 Mar 20 14:49 999
+-rw-rw-r-- 1 ksb ksb   25 Mar 23 12:36 a.c
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 14:48 data
+-rw-rw-r-- 1 ksb ksb 2232 Mar 20 15:11 data1
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 15:02 data2
+-rw-rw-r-- 1 ksb ksb  558 Mar 20 15:02 data3
+-rw-rw-r-- 1 ksb ksb    0 Mar 20 15:50 res
+-rw-rw-r-- 1 ksb ksb    0 Mar 23 12:23 rev123
+-rw-rw-r-- 1 ksb ksb    0 Mar 23 12:43 wc
